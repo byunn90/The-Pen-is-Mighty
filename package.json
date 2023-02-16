@@ -1,24 +1,14 @@
 {
-  "name": "the-pen-is-mighty",
+  "name": "note-taker",
   "version": "1.0.0",
-  "description": "## Your Task",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/byunn90/The-Pen-is-Mighty.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/byunn90/The-Pen-is-Mighty/issues"
-  },
-  "homepage": "https://github.com/byunn90/The-Pen-is-Mighty#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.16.4"
   }
 }
