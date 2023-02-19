@@ -49,6 +49,10 @@ npm init -y
 
 6. To delete a note, click on the red trash can icon next to its title in the notes list. This will remove the note from the application.
 
+# Video
+
+https://www.youtube.com/watch?v=LdXplx1rzVo
+
 # Contact-Details
 
 1. linkedin: ://www.linkedin.com/in/kayhan-mamak-5423b4262/
